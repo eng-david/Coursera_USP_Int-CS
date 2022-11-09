@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DecomposicaoFatoresPrimos",
+            "request": "launch",
+            "mainClass": "semana7.DecomposicaoFatoresPrimos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConversorTemperatura",
+            "request": "launch",
+            "mainClass": "semana2.ConversorTemperatura",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dezenas",
+            "request": "launch",
+            "mainClass": "semana2.Dezenas",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatura",
+            "request": "launch",
+            "mainClass": "semana2.Fatura",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Medias",
+            "request": "launch",
+            "mainClass": "semana2.Medias",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quadrado",
+            "request": "launch",
+            "mainClass": "semana2.Quadrado",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempoSegundos",
+            "request": "launch",
+            "mainClass": "semana2.TempoSegundos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bascara",
+            "request": "launch",
+            "mainClass": "semana3.Bascara",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crescente",
+            "request": "launch",
+            "mainClass": "semana3.Crescente",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistanciaPontos",
+            "request": "launch",
+            "mainClass": "semana3.DistanciaPontos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch FizzBuzzP1",
+            "request": "launch",
+            "mainClass": "semana3.FizzBuzzP1",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch FizzBuzzP2",
+            "request": "launch",
+            "mainClass": "semana3.FizzBuzzP2",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch FizzBuzzP3",
+            "request": "launch",
+            "mainClass": "semana3.FizzBuzzP3",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "semana3.Main",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParOuImpar",
+            "request": "launch",
+            "mainClass": "semana3.ParOuImpar",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoisDigitosIguais",
+            "request": "launch",
+            "mainClass": "semana4.DoisDigitosIguais",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "semana4.Fatorial",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosImpares",
+            "request": "launch",
+            "mainClass": "semana4.NumerosImpares",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaDigitos",
+            "request": "launch",
+            "mainClass": "semana4.SomaDigitos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch TabuadaDezenas",
+            "request": "launch",
+            "mainClass": "semana4.TabuadaDezenas",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaNumeroPrimo",
+            "request": "launch",
+            "mainClass": "semana4.TestaNumeroPrimo",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaVogal",
+            "request": "launch",
+            "mainClass": "semana5.TestaVogal",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaFizzBuzz",
+            "request": "launch",
+            "mainClass": "semana5.VerificaFizzBuzz",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaMaiorPrimo",
+            "request": "launch",
+            "mainClass": "semana5.VerificaMaiorPrimo",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaMaximo",
+            "request": "launch",
+            "mainClass": "semana5.VerificaMaximo",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaMaximoDe3",
+            "request": "launch",
+            "mainClass": "semana5.VerificaMaximoDe3",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch JogoDoNim",
+            "request": "launch",
+            "mainClass": "semana6.JogoDoNim",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetanguloPreenchido",
+            "request": "launch",
+            "mainClass": "semana7.RetanguloPreenchido",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetanguloVazio",
+            "request": "launch",
+            "mainClass": "semana7.RetanguloVazio",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaHipotenusa",
+            "request": "launch",
+            "mainClass": "semana7.VerificaHipotenusa",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaNPrimos",
+            "request": "launch",
+            "mainClass": "semana7.VerificaNPrimos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        }
+    ]
+}

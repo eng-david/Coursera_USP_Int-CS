@@ -3,6 +3,7 @@
 package semana5;
 
 import java.util.Scanner;
+import semana4.TestaNumeroPrimo;
 
 public class VerificaMaiorPrimo {
     public static void main(String[] args) {
@@ -15,27 +16,11 @@ public class VerificaMaiorPrimo {
 
     static Integer maiorPrimo(Integer n) {
         if (n >= 2) {
-            while (!testaPrimo(n)) {
+            while (!TestaNumeroPrimo.testaPrimo(n)) {
                 n -= 1;
             }
             return n;
         }
         return null;
-    }
-
-    static Boolean testaPrimo(Integer i) {
-
-        if (i > 0) {
-            if (i == 1)
-                return false;
-
-            Integer divisor = 2;
-            while (divisor < i) {
-                if (i % divisor == 0)
-                    return false;
-                divisor += 1;
-            }
-        }
-        return true;
     }
 }

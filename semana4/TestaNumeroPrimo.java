@@ -11,26 +11,27 @@ public class TestaNumeroPrimo {
         System.out.print("Digite um numero inteiro positivo: ");
         Integer i = Integer.parseInt(scan.nextLine());
 
-        Boolean ehPrimo = true;
-
-        if (i > 0) {
-            if (i == 1)
-                ehPrimo = false;
-
-            Integer divisor = 2;
-            while (ehPrimo & divisor < i) {
-                if (i % divisor == 0)
-                    ehPrimo = false;
-                divisor += 1;
-            }
-
-        }
-
-        if (ehPrimo)
-            System.out.println("é primo");
+        if (testaPrimo(i))
+            System.out.println("primo");
         else
             System.out.println("não é primo");
 
         scan.close();
+    }
+
+    public static Boolean testaPrimo(Integer i) {
+
+        if (i > 0) {
+            if (i == 1)
+                return false;
+
+            Integer divisor = 2;
+            while (divisor < i) {
+                if (i % divisor == 0)
+                    return false;
+                divisor += 1;
+            }
+        }
+        return true;
     }
 }
