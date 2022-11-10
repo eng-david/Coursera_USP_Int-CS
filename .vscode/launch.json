@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InvertendoSequencia",
+            "request": "launch",
+            "mainClass": "semana8.InvertendoSequencia",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorElemento",
+            "request": "launch",
+            "mainClass": "semana8.MaiorElemento",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaElementos",
+            "request": "launch",
+            "mainClass": "semana8.SomaElementos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveRepetidos",
+            "request": "launch",
+            "mainClass": "semana8.RemoveRepetidos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch DecomposicaoFatoresPrimos",
             "request": "launch",
             "mainClass": "semana7.DecomposicaoFatoresPrimos",
