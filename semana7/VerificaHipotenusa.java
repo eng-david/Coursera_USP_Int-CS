@@ -32,8 +32,8 @@ public class VerificaHipotenusa {
         
         System.out.print("numero: ");
         Integer n = Integer.parseInt(scanner.nextLine());
-        System.out.println(somaHipotenusas(n));
         System.out.println("total iteracoes: " + totalIteracoes);
+        System.out.println("Soma hipotenusas: " + somaHipotenusas(n));
         
         scanner.close();
         long stopTime = System.currentTimeMillis();
@@ -59,8 +59,8 @@ public class VerificaHipotenusa {
             for (Integer j = 1; j < hipotenusaTeste; j++) {
                 iteracoes += 1;
                 hipotenusa = Math.pow(i, 2) + Math.pow(j, 2); // não usa sqrt para economizar recursos
-                if (hipotenusa > hipotenusaTesteSquared) break;
-                if (hipotenusa.compareTo(hipotenusaTesteSquared) == 0) {
+                if (hipotenusa.compareTo(hipotenusaTesteSquared) > 0) break;
+                else if (hipotenusa.compareTo(hipotenusaTesteSquared) == 0) {
                     totalIteracoes += iteracoes;
                     System.out.println(hipotenusaTeste + " iteracoes: " + iteracoes);
                     return true;

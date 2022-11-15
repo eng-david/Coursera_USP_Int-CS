@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DetectorCohPiah",
+            "request": "launch",
+            "mainClass": "semana9.DetectorCohPiah",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "semana9.Solution",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch InvertendoSequencia",
             "request": "launch",
             "mainClass": "semana8.InvertendoSequencia",
