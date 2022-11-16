@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SaoMultiplicaveis",
+            "request": "launch",
+            "mainClass": "semana10.SaoMultiplicaveis",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImprimeMatriz",
+            "request": "launch",
+            "mainClass": "semana10.ImprimeMatriz",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaMatrizes",
+            "request": "launch",
+            "mainClass": "semana10.SomaMatrizes",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch DimensoesMatriz",
+            "request": "launch",
+            "mainClass": "semana10.DimensoesMatriz",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch DetectorCohPiah",
             "request": "launch",
             "mainClass": "semana9.DetectorCohPiah",
