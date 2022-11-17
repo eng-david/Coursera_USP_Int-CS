@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrimeiroLex",
+            "request": "launch",
+            "mainClass": "semana11.PrimeiroLex",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContaLetras",
+            "request": "launch",
+            "mainClass": "semana11.ContaLetras",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaMenorNome",
+            "request": "launch",
+            "mainClass": "semana11.VerificaMenorNome",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaMaiuscula",
+            "request": "launch",
+            "mainClass": "semana11.VerificaMaiuscula",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch SaoMultiplicaveis",
             "request": "launch",
             "mainClass": "semana10.SaoMultiplicaveis",
