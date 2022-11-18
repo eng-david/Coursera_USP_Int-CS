@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch VerificaTriangulo",
+            "request": "launch",
+            "mainClass": "semana12.VerificaTriangulo",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "semana12.Solution",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch PrimeiroLex",
             "request": "launch",
             "mainClass": "semana11.PrimeiroLex",
