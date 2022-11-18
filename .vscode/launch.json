@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TesteOperadoresLogicos",
+            "request": "launch",
+            "mainClass": "semana12.TesteOperadoresLogicos",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch VerificaTriangulo",
             "request": "launch",
             "mainClass": "semana12.VerificaTriangulo",
