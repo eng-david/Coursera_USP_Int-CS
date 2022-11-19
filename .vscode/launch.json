@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OrdenaLista",
+            "request": "launch",
+            "mainClass": "semana13.OrdenaLista",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeradorListaGrande",
+            "request": "launch",
+            "mainClass": "semana13.GeradorListaGrande",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuscaElemento",
+            "request": "launch",
+            "mainClass": "semana13.BuscaElemento",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaOrdenacao",
+            "request": "launch",
+            "mainClass": "semana13.VerificaOrdenacao",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "semana13.Solution",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testes",
+            "request": "launch",
+            "mainClass": "semana13.Testes",
+            "projectName": "Coursera_USP_Int-CS_8eed0079"
+        },
+        {
+            "type": "java",
             "name": "Launch TesteOperadoresLogicos",
             "request": "launch",
             "mainClass": "semana12.TesteOperadoresLogicos",
