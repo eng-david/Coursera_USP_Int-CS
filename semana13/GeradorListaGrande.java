@@ -13,7 +13,7 @@ public class GeradorListaGrande {
         list.forEach(i -> System.out.print(i + " "));
     }
 
-    static List<Integer> listaGrande (Integer s) {
-        return IntStream.range(0, s).mapToObj(i -> new Random().nextInt(1000)).toList();
+    public static List<Integer> listaGrande (Integer s) {
+        return IntStream.range(0, s).mapToObj(i -> new Random().nextInt(s * 2)).toList();
     }
 }

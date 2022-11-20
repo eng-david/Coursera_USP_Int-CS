@@ -9,6 +9,34 @@
             "name": "Launch OrdenaLista",
             "request": "launch",
             "mainClass": "semana13.OrdenaLista",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "semana14.InsertionSort",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "semana14.BubbleSort",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuscaBinaria",
+            "request": "launch",
+            "mainClass": "semana14.BuscaBinaria",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdenaLista",
+            "request": "launch",
+            "mainClass": "semana13.OrdenaLista",
             "projectName": "Coursera_USP_Int-CS_8eed0079"
         },
         {
