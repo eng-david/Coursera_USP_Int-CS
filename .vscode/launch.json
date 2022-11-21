@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FatorialComRecursao",
+            "request": "launch",
+            "mainClass": "semana15.FatorialComRecursao",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciComRecursao",
+            "request": "launch",
+            "mainClass": "semana15.FibonacciComRecursao",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Elefantes",
+            "request": "launch",
+            "mainClass": "semana15.Elefantes",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncontraImparesComRecursao",
+            "request": "launch",
+            "mainClass": "semana15.EncontraImparesComRecursao",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaComRecursao",
+            "request": "launch",
+            "mainClass": "semana15.SomaComRecursao",
+            "projectName": "Coursera_USP_Int-CS_9ff8aa83"
+        },
+        {
+            "type": "java",
             "name": "Launch OrdenaLista",
             "request": "launch",
             "mainClass": "semana13.OrdenaLista",
